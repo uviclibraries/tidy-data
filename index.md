@@ -3,34 +3,36 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/tidy-data-logo.png" style="float:right;width:180px;" alt="Tidy Data Workshop Logo">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Tidy Data
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 5 min 
+- Introductory presentation: 60 min
+- Hands-on activities: 60-90 min
 
-## Why TOOL NAME HERE? 
+## Why Tidy Data?
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+[Tidy Data](https://www.jstatsoft.org/article/view/v059i10) is data that is stored and formatted in a way that facilitates data analysis.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
+Do you collect or manage quantitative data, but struggle with how to structure your tables? The principles of “tidy data” are a standard way to organize the values within a dataset.1 By keeping your data tidy, you can spend less time on wrangling data, and more time getting the answers you need! 
 
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
+This workshop provides participants with a framework to recognize and tidy messy data, and some practical skills in Microsoft Excel, Microsoft Power Query, and OpenRefine to enable data collection in a tidy format, so that analysis is possible! 
 
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
+This workshop was designed as a part of the "Demystifying Library Assessment: Professional Development to Expand Skills and Improve Practices" program that seeks to improve data quality and analysis in the Libraries. Tidying data is possible through many other tools such as the reshape2 and plr R packages which are mentioned in the Tidy [Data Article](https://www.jstatsoft.org/article/view/v059i10) by Hadley Wickham (1); however, Excel, Power Query, and OpenRefine are familiar and available to Uvic affiliates.    
 
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+- Understand why tidy data is needed for data analysis 
+- Define an observation, a variable, tidy data, and messy data 
+- Recognize a dataset as either messy or tidy 
+- Name and identify the 5 most common messy datasets 
+- Apply the techniques to tidy the 5 most common messy data problems using Excel, Power Query, and/or OpenRefine 
+
+### References
+(1) Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
