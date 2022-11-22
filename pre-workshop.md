@@ -6,10 +6,11 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with **Excel, Power Query, and OpenRefine** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**10 minutes**<br>
+**Videos [9 minutes]**<br>
 - OPTIONAL - [How Power Query Will Change the Way You Use Excel](https://www.youtube.com/embed/6lBqYInBldk) (9 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lBqYInBldk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+**Downloads [5-10 minutes]**<br>
 - Download [OpenRefine](https://openrefine.org/download.html)
 - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>

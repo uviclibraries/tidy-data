@@ -7,7 +7,7 @@ nav_order: 1
 
 # Tidy Data
 
-- Pre-workshop activities: 5 min 
+- Pre-workshop activities: 0-15 min 
 - Introductory presentation: 60 min
 - Hands-on activities: 60-90 min
 
