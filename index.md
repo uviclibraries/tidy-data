@@ -15,7 +15,7 @@ nav_order: 1
 
 [Tidy Data](https://www.jstatsoft.org/article/view/v059i10) is data that is stored and formatted in a way that facilitates data analysis.
 
-Do you collect or manage quantitative data, but struggle with how to structure your tables? The principles of “tidy data” are a standard way to organize the values within a dataset.1 By keeping your data tidy, you can spend less time on wrangling data, and more time getting the answers you need! 
+Do you collect or manage quantitative data, but struggle with how to structure your tables? The principles of “tidy data” are a standard way to organize the values within a dataset. By keeping your data tidy, you can spend less time on wrangling data, and more time getting the answers you need! 
 
 This workshop provides participants with a framework to recognize and tidy messy data, and some practical skills in Microsoft Excel, Microsoft Power Query, and OpenRefine to enable data collection in a tidy format, so that analysis is possible! 
 
