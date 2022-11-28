@@ -16,5 +16,5 @@ parent: Workshop Activities
     a. Select "Get Data"
     b. Scroll down to "launch Power Query Editor..."
 
-<iframe src="images\navigation\open.mp4">
+<iframe src="images\navigation\open.mp4" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
