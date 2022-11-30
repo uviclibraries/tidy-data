@@ -19,3 +19,5 @@ parent: Workshop Activities
 
 <iframe src="images\navigation\open.mp4" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
+
+[NEXT STEP: Multiple Variables are Stored in One Column](2-multiple-variables.md){: .btn .btn-blue }
