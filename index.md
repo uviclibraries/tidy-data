@@ -35,4 +35,4 @@ At the end of this workshop, you will be able to:
 ### References
 (1) Wickham, H. . (2014). Tidy Data. Journal of Statistical Software, 59(10), 1–23. https://doi.org/10.18637/jss.v059.i10
  
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.md){: .btn .btn-blue }
+[NEXT STEP: 1 Columns Headers are Values](1-column-headers.md){: .btn .btn-blue }
