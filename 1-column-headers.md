@@ -23,28 +23,18 @@ parent: Workshop Activities
 
 3. On the **home** tab, navigate to and select **new data source**, hover over **File** and select **Excel Workbook**. Notice that there are many different available data sources that Power Query can pull form.
 
-<details>
-<summary>Click for Navigation help</summary>
-<img src="images\load-all.gif"> 
-</details>
-
 4. Import the **to-tidy.xlsx** [file]() from where you downloaded it.
-
-<details>
-<summary>Click for Navigation help</summary>
-<img src="images\load-all.gif"> 
-</details>
 
 5. In the Navigator window that pops up check off **Select multiple items** then check off all the sheets from the **to-tidy.xlsx** workbook. Click **OK**.
 
+6. From the menu on the left hand-side, select **col-vals**
+
 <details>
 <summary>Click for Navigation help</summary>
 <img src="images\load-all.gif"> 
 </details>
 
-6. From the menu on the left hand-side, select **col-vals**
-
-### Adjust Headers:
+### ADJUST HEADERS:
 
 7. Sometimes Power Query does not automatically detect that the table has headers. Click on the little table icon on the top left-hand corner of your data table. Select "Use First Row as Headers" from the dropdown menu.
 
