@@ -26,7 +26,7 @@ Take a look at all the tables with "multiple-tables" in their name. Notice that 
 
 <details>
 <summary>Click for Navigation help</summary>
-<iframe src="images\multiple-tables-append.mp4" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="images\multiple-tables-append.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
 [NEXT STEP: Variables in Excel](6-variables-in-excel.md){: .btn .btn-blue }
