@@ -23,7 +23,7 @@ parent: Workshop Activities
 
 3. On the **home** tab, navigate to and select **new data source**, hover over **File** and select **Excel Workbook**. Notice that there are many different available data sources that Power Query can pull form.
 
-4. Import the **to-tidy.xlsx** [file]() from where you downloaded it.
+4. Import the **to-tidy.xlsx** [file](data/to-tidy.xlsx) from where you downloaded it.
 
 5. In the Navigator window that pops up check off **Select multiple items** then check off all the sheets from the **to-tidy.xlsx** workbook. Click **OK**.
 

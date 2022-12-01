@@ -8,7 +8,7 @@ parent: Workshop Activities
 
 You're going to be tidying your own data in Excel and Power Query.
 
-Please download the necessary data files: [link here]() (2 min)
+Please download the necessary data files: [to-tidy.xlsx](data/to-tidy.xlsx) (2 min)
 
 You may review the following [Introductory Slides](https://www.canva.com/design/DAFR99yP_O8/Gb79UiDSy07Doo20DPd_Rg/view?utm_content=DAFR99yP_O8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) (for your convenience)
 
