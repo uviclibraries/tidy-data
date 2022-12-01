@@ -7,9 +7,13 @@ parent: Workshop Activities
 
 # Multiple Variables are Stored in One Column
 ### Tidy Data Rule(s) Broken: Each variable forms a column
+<br>
 
-### Split by Delimiter
-1. Select the "multiple-variables" table from the left pane.
+Select the "multiple-variables" table from the left pane.
+
+<br>
+
+### SPLIT BY DELIMITER:
 
 2. Notice that the "Book" column includes both the **title** and the **author**? These are 2 different variables. In analysis you might want to do something like count the number of books an author has written. 
 
@@ -24,7 +28,7 @@ parent: Workshop Activities
 <img src="images\multiple-variables-split-on-by.gif"> 
 </details>
 
-### Rename Headers
+### RENAME HEADERS:
 
 6. Rename the columns to be more descriptive by double clicking on them (eg. "Title" and "Author")
 
