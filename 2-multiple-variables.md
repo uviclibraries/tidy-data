@@ -24,7 +24,7 @@ Select the "multiple-variables" table from the left pane.
 5. You may have noticed that the title and author are separated using the word "by" in the "Book" column. This will be the delimiter. **NOTE: if the variables are separated by any spaces, these should be included in the delimiter you use or else there will be [white space](https://en.wikipedia.org/wiki/Whitespace_character) which software will recognize as a character.** Type in <mark>&nbsp;&nbsp;by&nbsp; </mark> (with a space on both sides) into the input box and select **OK**.
 
 <details>
-<summary>Click for Navigation help (steps 2-5)</summary>
+<summary>Click for Navigation help (all steps in the "split by delimiter" section)</summary>
 <img src="images\multiple-variables-split-on-by.gif"> 
 </details>
 
