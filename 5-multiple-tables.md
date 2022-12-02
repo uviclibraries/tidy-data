@@ -7,11 +7,9 @@ parent: Workshop Activities
 
 # A single Observational Unit is Stored in Multiple Tables
 ### Tidy Data Rule(s) Broken: Each type of observational unit forms a table
-
 <br>
 
 Take a look at all the tables with "multiple-tables" in their name. Notice that they all have the same variables (headers) and observational units (student mental health)? These tables are separated by date the survey was taken, however, date is a **variable**, not an **observational unit**.
-
 <br>
 1. Select the "multiple-tables-1" table from the left pane.
 <br><br>
@@ -28,5 +26,9 @@ Take a look at all the tables with "multiple-tables" in their name. Notice that 
 <summary>Click for Navigation help</summary>
 <iframe src="images\multiple-tables-append.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
+
+<br>
+
+This is the last of the power query steps. In the top navigation pane, in the **Home** tab, select **Close & Load**. Your data should now save as tables in sheets of your Excel Workbook (it may take a few seconds to load).
 
 [NEXT STEP: Variables in Excel](6-variables-in-excel.md){: .btn .btn-blue }
