@@ -64,4 +64,6 @@ You can also filter without a table by highlighting the descired cells and selec
 <iframe src="images\variables-in-excel-filter-without-table.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
-[NEXT STEP: Excel Basics](1-column-headers.md){: .btn .btn-blue }
+Congrats! You're done :)
+
+[NEXT STEP: Additional Resources](additional-resources.md){: .btn .btn-blue }
