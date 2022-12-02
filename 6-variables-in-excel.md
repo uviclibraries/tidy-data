@@ -57,4 +57,11 @@ Often tables will be separated on values instead of observations because we want
 <iframe src="images\variables-in-excel-filter-table.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
 
+You can also filter without a table by highlighting the descired cells and selecting **Sort and Filter** > **Filter** from the **Home** tab.
+
+<details>
+<summary>Click for Navigation Help</summary>
+<iframe src="images\variables-in-excel-filter-without-table.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</details>
+
 [NEXT STEP: Excel Basics](1-column-headers.md){: .btn .btn-blue }
