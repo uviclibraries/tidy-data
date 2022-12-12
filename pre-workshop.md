@@ -11,7 +11,6 @@ This workshop is primarily hands-on practice with **Excel, Power Query, and Open
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6lBqYInBldk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Downloads [5-10 minutes]**<br>
-- Download [OpenRefine](https://openrefine.org/download.html)
 - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
