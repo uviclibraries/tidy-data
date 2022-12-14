@@ -4,7 +4,7 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **Excel, Power Query, and OpenRefine** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with **Excel and Power Query** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Videos [9 minutes]**<br>
 - OPTIONAL - [How Power Query Will Change the Way You Use Excel](https://www.youtube.com/embed/6lBqYInBldk) (9 min)<br>
