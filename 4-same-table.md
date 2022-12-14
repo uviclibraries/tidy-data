@@ -51,6 +51,15 @@ This table holds course descriptions and professor's  Google Scholar citation st
 <img src="images\should-be-multiple-delete-courses.gif"> 
 </details>
 
+### REMOVE DUPLICATES:
+
+1. Now you have repeated rows. To delete repeats, right click on the header "Professor" and select **Remove Duplicates**  
+
+<details>
+<summary>Click for Navigation help</summary>
+<img src="images\should-be-multiple-delete-duplicates.gif"> 
+</details>
+
 ### RENAME TABLE IN OTHER TABLE:
 1. To differentiate your new table from the other one, name it to identify the observation (eg. "Google Scholar Citations")
 

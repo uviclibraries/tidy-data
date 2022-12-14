@@ -7,7 +7,7 @@ parent: Workshop Activities
 # Variables in Excel
 
 ### VARIABLE TYPES:
-1. Open [file-name] in Excel.
+1. Open [variables.xlsx](data\variables.xlsx) in Excel.
 2. Select all filled cells by clicking and holding cell **1A** and dragging to cell **6F**
 3. Navigate to the **Insert** tab and click the **Table** icon in the **Tables** section.
 4. Make sure the **My table has headers** option is checked off and press **OK**.

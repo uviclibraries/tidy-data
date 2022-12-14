@@ -37,15 +37,16 @@ Several of the headers in this table are dates. Dates are a value which can be s
 
 ### PIVOT COLUMN:
 
-The "Measure" column is different appointment variables for Librarian Reference. Thses should be headers instead whose values are currently in the column "Value".
+The "Measure" column is different appointment variables for Librarian Reference. These should be headers instead whose values are currently in the column "Value".
 
 1. Select the "Measure" column by clicking on the header. The column should now be highlighted.
 2. In the top pane, navigate to the **Transform** column. In the **Any Column** section select **Pivot Column**. 
-3. In the **Pivot Column** window, select "value" from the drop down menu. These are the values that will be under the new headers.
+3. In the **Pivot Column** window, select "value" from the drop down menu. *Make sure that in the **Advanced Options: Aggregate Value Function**, "Don't Aggregate" is selected* . These are the values that will be under the new headers.
 
 <details>
 <summary>Click for Navigation help</summary>
-<img src="images\cols-and-rows-pivot-measures.gif"> 
+<img src="images\cols-and-rows-pivot-measures.gif">
+ <img src="images\cols-and-rows-dont-aggregate.PNG">
 </details>
 
 ### RENAME AND CHANGE TYPE:
