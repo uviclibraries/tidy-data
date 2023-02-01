@@ -10,8 +10,8 @@ parent: Workshop Activities
 <br>
 
 Take a look at all the tables with "multiple-tables" in their name. Notice that they all have the same variables (headers) and observational units (student mental health)? These tables are separated by date the survey was taken, however, date is a **variable**, not an **observational unit**.
-<br>
-1. Select the "multiple-tables-1" table from the left pane.
+<br><br>
+<mark>1. Select the "multiple-tables-1" table from the left pane.</mark>
 <br><br>
 
 ### APPEND TABLES:
@@ -23,10 +23,13 @@ Take a look at all the tables with "multiple-tables" in their name. Notice that 
 5. The table is now titled "Append1" give it a more descriptive name (eg. Student Mental Health Survey)
 
 <details>
-<summary>Click for Navigation help</summary>
+<summary>Click for Navigation help [WINDOWS]</summary>
 <iframe src="images\multiple-tables-append.mp4" width="560" height="315" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
-
+<details>
+<summary>Click for Navigation help [MAC]</summary>
+<img src="images\append-mac.gif" >
+</details>
 <br>
 
 This is the last of the power query steps. In the top navigation pane, in the **Home** tab, select **Close & Load**. Your data should now save as tables in sheets of your Excel Workbook (it may take a few seconds to load).

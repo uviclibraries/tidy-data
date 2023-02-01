@@ -9,7 +9,7 @@ parent: Workshop Activities
 ### Tidy Data Rule(s) Broken: Each variable forms a column
 <br>
 
-Select the "multiple-variables" table from the left pane.
+<mark>Select the "multiple-variables" table from the left pane.</mark>
 
 <br>
 
@@ -19,7 +19,10 @@ Select the "multiple-variables" table from the left pane.
 
 3. Right click on the "Book" header. Hover over **Split Column**, then select **By Delimiter...**
 
-4. In the **Split Column by Delimiter** window, click on the **Select or enter delimiter** option and choose **--Custom--** from the drop-down menu.
+4. In the **Split Column by Delimiter** window
+- [WINDOWS] click on the **Select or enter delimiter** option <br>
+- [MAC] Use the drop-down-menu titled **Separator** <br>
+and choose **--Custom--** from the drop-down menu.
 
 5. You may have noticed that the title and author are separated using the word "by" in the "Book" column. This will be the delimiter. **NOTE: if the variables are separated by any spaces, these should be included in the delimiter you use or else there will be [white space](https://en.wikipedia.org/wiki/Whitespace_character) which software will recognize as a character.** Type in <mark>&nbsp;&nbsp;by&nbsp; </mark> (with a space on both sides) into the input box and select **OK**.
 

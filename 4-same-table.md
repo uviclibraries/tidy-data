@@ -8,8 +8,8 @@ parent: Workshop Activities
 # Multiple Types of Observational Units are Stored in the Same Table
 ### Tidy Data Rule(s) Broken: Each type of observational unit forms a table
 <br>
-Select the "should-be-multiple" table from the left pane.
-<br>
+<mark>Select the "should-be-multiple" table from the left pane.</mark>
+<br><br>
 
 This table holds course descriptions and professor's  Google Scholar citation statistics. These are 2 observations although they do have the "professor" in common.
 

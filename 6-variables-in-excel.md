@@ -9,10 +9,10 @@ parent: Workshop Activities
 ### VARIABLE TYPES:
 1. Open [variables.xlsx](data\variables.xlsx) in Excel.
 2. Select all filled cells by clicking and holding cell **1A** and dragging to cell **6F**
-3. Navigate to the **Insert** tab and click the **Table** icon in the **Tables** section.
+3. Navigate to the **Insert** tab and click the **Table** icon in the **Tables** section. Make sure "My table has headers" is selected.
 4. Make sure the **My table has headers** option is checked off and press **OK**.
-5. Click on the **F** to select the "Open" column.
-6. In the **Home** tab, in the **Number** section, click on the drop-down. Select **Time**.
+5. Click on **Column F** to select the "Open" column.
+6. In the **Home** tab, in the **Number** section (middle on MAC), click on the drop-down. Select **Time**.
 7. Do the same for all the columns. The types should be
     1. "start date": **Date**
     2. "FTE employees": **Number**
@@ -27,14 +27,14 @@ parent: Workshop Activities
 
 ### DATA VALIDATION:
 1. Select the **F**/"Open" column again.
-2. In the **Data** tab, in the **Data Tools** section, click **Data Validation**, select **Data Validation** from the drop-down. Select **Yes** in the window that pops up.
+2. In the **Data** tab, in the **Data Tools** section (middle right on MAC), click **Data Validation**, select **Data Validation** from the drop-down. Select **Yes** in the window that pops up.
 3. In the **Allow** input box, choose **Time**.
 4. A store can open anytime of day, so we can set the **Start time** to **12:00:00 AM** and the **End time** to **11:59:59 PM**.
 5. Click **Ok**.
 6. Moving on to **start date**, choose **greater than** from the input box. Set the **start date** to **1-Jan-13**. In this case the start date is arbitrary, but if you were setting the date for a program, for example, you would set the validation to the start date of the program to the end date of the program. This would help avoid incorrect data collection, which produces outliers and missing data. 
 7. For "FTE employees" choose **Decimal** and **greater than or equal to** 0 (a store cannot have negative employees).
 8. Choose **Decimal** and **greater than or equal to** 0 for "Profit" as well. 
-9. For "Store type" we can create a **List**. Type in **Coffee Shop, Clothing Store, Book Store** to the **Source** input box.
+9. For "Store type" we can create a **List**. Type in **Coffee Shop, Clothing Store, Book Store, Outdoor Gear** to the **Source** input box.
 10. No validation is necessary for the store name
 11. Try typing an inconsistent value into the table and see what happens.
 

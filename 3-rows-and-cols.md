@@ -9,8 +9,8 @@ parent: Workshop Activities
 ### Tidy Data Rule(s) Broken: Each variable forms a column, and Each observation forms a row
 
 <br>
-Select the "cols-and-rows" table from the left pane.
-<br>
+<mark>Select the "cols-and-rows" table from the left pane.</mark>
+<br><br>
 
 ### ADJUST HEADERS:
 
